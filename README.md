@@ -17,7 +17,7 @@
 
 📫 You can find me there:
 
-- the most beutiful girl ever:
+- the most beautiful girl ever:
 <a href="https://www.instagram.com/dulinaira"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
 - the most interesting bunny:
