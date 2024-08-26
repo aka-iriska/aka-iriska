@@ -29,8 +29,7 @@
 - the most charismatic one:
 <a href="https://www.tiktok.com/@aaariennn"><img src="https://img.shields.io/badge/tik tok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok Badge"/></a>
 
-- the most outgoing person:
-<a href="mailto:trotil617@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+- the most outgoing person:<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>trotil617@gmail.com
 
 😄 Pronouns: she/her 👧
 
