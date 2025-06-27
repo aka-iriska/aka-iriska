@@ -22,7 +22,7 @@
 <a href="https://vk.com/dulinaira"><img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/></a>
 
 - the cleverest babe:
-<a href="https://t.me/kirajournal"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="https://t.me/dulinaira"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 
 - the most charismatic one:
 <a href="https://www.tiktok.com/@aaariennn"><img src="https://img.shields.io/badge/tik tok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok Badge"/></a>
